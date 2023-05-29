@@ -1,0 +1,20 @@
+/* Style the body */
+  body {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      padding: 2em;
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+  }
+ .container {
+     max-width: 960px;
+     width: calc(100% - 4em);
+     border-radius: 5px;
+     overflow: hidden;
+     background-color: #387ef5;
+}
+  /* Styling for the header element */
+  header {}
